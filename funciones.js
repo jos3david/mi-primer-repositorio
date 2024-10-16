@@ -30,7 +30,7 @@ function division(numeroUno, numeroDos) {
 }
 
 console.log(division(1, 2))
-
+22
 
 function esMayor(numeroUno, numeroDos) {
     if (numeroUno > numeroDos) {
